@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Gleb 👋
+
+I'm a first year student in ITMO University
 
 <!--
 **glebmavi/glebmavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
