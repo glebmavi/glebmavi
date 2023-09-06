@@ -1,18 +1,13 @@
-### Hi, I'm Gleb 👋
+<h1 align="center">Hi 👋, my name is Gleb and I'm a programmer from :colombia:</h1>
 
-I'm a first year student in ITMO University
+I'm currently a second-year student at ITMO University pursuing a degree in Neurotechnologies and Programming.
 
-<!--
-**glebmavi/glebmavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about technology, programming, and open-source software, and I use this platform to showcase some of my projects and contributions to the community.
 
-Here are some ideas to get you started:
+## Contact Information
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Email: glebmavi@gmail.com
+- Telegram: [@glebmavi](https://t.me/glebmavi)
+
+Feel free to reach out to me, I'm always open to collaboration and discussing interesting tech-related topics.
+
