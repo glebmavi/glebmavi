@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, my name is Gleb
+<h1 align="center">Hi 👋, my name is Gleb</h1>
 
 I'm currently a second-year student at ITMO University pursuing a degree in Neurotechnologies and Programming.
 
