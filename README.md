@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, my name is Gleb and I'm a programmer from :colombia:</h1>
+<h1 align="center">Hi 👋, my name is Gleb
 
 I'm currently a second-year student at ITMO University pursuing a degree in Neurotechnologies and Programming.
 
