@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, my name is Gleb</h1>
+<h1 align="center">Hi 👋 my name is Gleb</h1>
 
-I'm currently a third-year student at ITMO University pursuing a degree in Neurotechnologies and Programming.
+I'm currently a fourth-year student at ITMO University pursuing a degree in Neurotechnologies and Programming.
 
 I'm passionate about technology, programming, and open-source software, and I use this platform to showcase some of my projects and contributions to the community.
 
