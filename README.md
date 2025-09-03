@@ -19,5 +19,9 @@ I'm passionate about technology, programming, and open-source software, and I us
   </a>
 </p>
 
+## GitHub Trophies
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=glebmavi&theme=darkhub)
+
 Feel free to reach out to me, I'm always open to collaboration and discussing interesting tech-related topics.
 
